@@ -19,11 +19,25 @@
         android:layout_height="wrap_content"
         android:text="Stop thread"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnStartTimer"
+        android:text="@string/start_timer"/>
+
     <TextView
         android:id="@+id/tvData"
         android:textSize="22sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:text="@string/thread_starts_now"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvTime"
+        android:textSize="24sp"
+        android:text=""
+        android:textColor="#FF0000"/>
 
 </LinearLayout>
