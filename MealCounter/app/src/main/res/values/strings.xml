@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meal Counter</string>
+    <string name="my_name">Number of Meals Eaten:</string>
+    <string name="add">Add Meal</string>
+    <string name="remove">Remove Meal</string>
+    <string name="hello_world">Go to new activity!</string>
+    <string name="second_act">Second Activity</string>
+</resources>

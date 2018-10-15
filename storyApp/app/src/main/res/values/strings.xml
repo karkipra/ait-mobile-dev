@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">storyApp</string>
+    <string name="introduction">Welcome to the story! Please press the nextbutton to proceed.</string>
+</resources>

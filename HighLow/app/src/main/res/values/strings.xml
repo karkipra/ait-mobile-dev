@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HighLow</string>
+    <string name="start">Start</string>
+    <string name="about">About</string>
+    <string name="Help">Help</string>
+    <string name="enterGuess">Enter your guess here!</string>
+    <string name="guess">Guess!</string>
+    <string name="win">You Have Won!</string>
+    <string name="higher">The Number is Higher</string>
+    <string name="lower">The Number is Lower</string>
+    <string name="empty_et">This Field Cannot Be Empty!</string>
+    <string name="name">Enter Your Name!</string>
+    <string name="winner">YOU HAVE WON!</string>
+    <string name="guesses">Number of Guesses:</string>
+</resources>
