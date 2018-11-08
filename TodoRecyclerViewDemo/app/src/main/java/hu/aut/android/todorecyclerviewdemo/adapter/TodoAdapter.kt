@@ -7,6 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import hu.aut.android.todorecyclerviewdemo.R
+import hu.aut.android.todorecyclerviewdemo.data.AppDatabase
 import hu.aut.android.todorecyclerviewdemo.data.Todo
 import hu.aut.android.todorecyclerviewdemo.touch.TodoTochHelperAdapter
 import kotlinx.android.synthetic.main.todo_row.view.*
@@ -23,6 +24,10 @@ class TodoAdapter : RecyclerView.Adapter<TodoAdapter.ViewHolder>, TodoTochHelper
     constructor(context: Context, items: List<Todo>) : super() {
         this.context = context
         this.todoItems.addAll(items)
+    }
+
+    constructor(context: Context) : super() {
+        this.context = context
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, p1: Int): ViewHolder {

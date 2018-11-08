@@ -11,3 +11,4 @@ data class Todo(
     @ColumnInfo(name = "done") var done: Boolean,
     @ColumnInfo(name = "todotext") var todoText: String
 )
+
