@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "375008998923",
+    "firebase_url": "https://forum-354cc.firebaseio.com",
+    "project_id": "forum-354cc",
+    "storage_bucket": "forum-354cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375008998923:android:9988d362257cdb16",
+        "android_client_info": {
+          "package_name": "com.pratikkarki.firebaseforumdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375008998923-ra2j8lrfk0sqmoe3ainosden2vro8qo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratikkarki.firebaseforumdemo",
+            "certificate_hash": "1bd857d3a36359e0dd9e35259adf71d7bcc9b95c"
+          }
+        },
+        {
+          "client_id": "375008998923-7vsapvf6ah7b9jpq3gk0bu7gp8l8e12u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARptxOZfFt_WBRwqRILGRJWWAgHIcZoPo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375008998923-7vsapvf6ah7b9jpq3gk0bu7gp8l8e12u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
